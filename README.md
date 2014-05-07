@@ -1,4 +1,4 @@
 AthenaScript
 ============
 
-Athena C/C++ style oop WIP scripting language
+Athena is a C/C++ style oop WIP scripting language
